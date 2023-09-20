@@ -18,9 +18,10 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&0logo=Naver&logoColor=white&link=mailto:syeon_k112@naver.com)](mailto:syeon_k112@naver.com)
 
 # My Profile
+<!--
 [![Notion Profile](https://img.shields.io/badge/Notion-000000?style-for-the-badge&logo-Notion&logoColor-white)](https://second-dirigible-9e3.notion.site/5be257fd01e74125a8e48807eb5a29e7?pvs=4)
 노션 이력서로 가집니다!
-
+-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 <!--
 **HwiYul-G/HwiYul-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
