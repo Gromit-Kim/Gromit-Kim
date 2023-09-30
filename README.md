@@ -19,10 +19,10 @@
 
 # My Profile
 <!--
-[![Notion Profile](https://img.shields.io/badge/Notion-000000?style-for-the-badge&logo-Notion&logoColor-white)](https://second-dirigible-9e3.notion.site/5be257fd01e74125a8e48807eb5a29e7?pvs=4)
+[![Notion Profile](https://img.shields.io/badge/Notion-000000?style-for-the-badge&logo-Notion&logoColor-white)](site 주소)
 노션 이력서로 가집니다!
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwiYul-G&count_bg=%2379C83D&title_bg=%23555555&icon=hootsuite.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **HwiYul-G/HwiYul-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
