@@ -2,31 +2,6 @@
 > Hello, I'm "So Yeon Kim" <br>
 > I'm interested in Clean Architecture and try to provide reliability with test code.
 
-# ☎️ Contact
-📧 **Email** : later...
-
-# 📚 Education
-
-### Software Convergence
-- Bachelor's degree 
-- 전공 학점 `4.47/4.5`, 전체 학점 `4.39/4.5`
-- 4학기 중 4학기 장학
-
-### Computer Engineering(Dropped out)
-- 전공 학점 `4.25/4.5` , 전체 학점 `4.34/4.5`
-- 4학기 중 4학기 장학
-- 2학기 장학 기준 수석
-
-# 🧾 자격증 및 어학 능력
-- 2022 - SQLD
-- 2018 - ITQ시험 A급 엑셀
-- 2010 - 워드프로세서 2급
-- 2010 - ITQ 시험 B급 PPT
-- 2008 - ITQ 시험 A급 한글
-
-### 어학 능력
-- 2021 - TOEIC 910점
-
 ## 할 수 있어요
 - Android - Kotlin
     - 네트워크 통신을 할 수 있어요.
