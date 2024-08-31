@@ -1,7 +1,7 @@
 # So Yeon Kim👋
 > Hello, I'm "So Yeon Kim" <br>
-> I'm interested in Clean Architecture and try to provide reliability with test code.
-
+> I'm interested in processing large amounts of data and improving traffic.</br>
+> Also I aim for clean architecture and try to provide reliability with test code.
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwiYul-G&show_icons=true&theme=radical)
 
