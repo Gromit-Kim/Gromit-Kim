@@ -19,8 +19,10 @@
 > <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
 > <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwiYul-G&show_icons=true&theme=radical)
-
+## GitHub
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=HwiYul-G&show_icons=true&theme=radical" alt="HwiYul-G" height="150" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HwiYul-G&show_icons=true&locale=en&layout=compact&theme=dark" alt="HwiYul-G" height=150" align="center"/>
+</div>
 
 
