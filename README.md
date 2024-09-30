@@ -11,7 +11,8 @@
 > <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 > #### Framework
-> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+> <img src="http://img.shields.io/badge/Spring-COLOR?style=flat-square&logo=Spring&logoColor=white&color=6DB33F" />
+> <img src="http://img.shields.io/badge/SpringBoot-COLOR?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F" />  
 
 > #### Infra
 > <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
