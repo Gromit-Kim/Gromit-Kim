@@ -1,4 +1,4 @@
-# Software Engineer - So Yeon Kim👋 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwiYul-G&count_bg=%2379C83D&title_bg=%23555555&icon=hootsuite.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+# Software Engineer - So Yeon Kim👋
 > Hello, I'm "So Yeon Kim" <br>
 > I'm currently focused on automating workflows and enhancing business operations with AI for my company. </br>
 > I'm interested in processing large amounts of data and improving traffic.</br>
@@ -13,7 +13,8 @@
 
 > #### Framework
 > <img src="http://img.shields.io/badge/Spring-COLOR?style=flat-square&logo=Spring&logoColor=white&color=6DB33F" />
-> <img src="http://img.shields.io/badge/SpringBoot-COLOR?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F" />  
+> <img src="http://img.shields.io/badge/SpringBoot-COLOR?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F" />
+> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white" />
 
 > #### Infra
 > <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
