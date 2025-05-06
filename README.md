@@ -25,7 +25,7 @@
 
 ## GitHub
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=HwiYul-G&show_icons=true&theme=radical" alt="HwiYul-G" height="150" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gromit-Kim&show_icons=true&theme=radical" alt="Gromit-Kim" height="150" align="center"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HwiYul-G&show_icons=true&locale=en&layout=compact&theme=dark" alt="HwiYul-G" height=150" align="center"/>
 </div>
 
